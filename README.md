@@ -1,1 +1,1 @@
-# Stock
+# Stock Analysis and Visualisation
